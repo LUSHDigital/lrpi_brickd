@@ -1,2 +1,3 @@
 # lrpi_brickd
-a docker wrapper for the tinkerforge brick daemon
+
+A simple docker wrapper for the tinkerforge brick daemon
